@@ -35,7 +35,7 @@ I'm **Shravan N V** — PGDM in Agri-Business Management from **ICAR-NAARM**, wi
 - 🔍 Coded **160+ app reviews** for Clinikally (YC S22) — delivered 5 prioritised product fixes
 - 📡 **Market feasibility** for rural cold-chain storage (ColdEasy Technology, IIT RuTAG)
 
-Targeting roles in **Product Management, Founder's Office, Strategy & Business Analytics**.
+My interest lies in in **Product Management, Founder's Office, Strategy & Business Analytics**.
 
 <br clear="right"/>
 
@@ -89,26 +89,6 @@ Targeting roles in **Product Management, Founder's Office, Strategy & Business A
 ### ❄️ [ColdEasy Market Research & Dashboard](https://github.com/shravannaarm23-dev/ColdEasy-Market-Research-and-Dashboard) — IIT RuTAG
 > **Market Research · Feasibility · Rural Supply Chain**
 > Assessed product-market fit for low-cost cold storage across rural agri supply chains. Competitor benchmarking, pricing sensitivity, customer segmentation (FPOs, agri-aggregators), and revenue projection models for GTM planning.
-
----
-
-## 📊 GitHub Stats
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=shravannaarm23-dev&theme=flat&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies"/>
-</p>
-
-<!-- STATS + STREAK SIDE BY SIDE -->
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravannaarm23-dev&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=555" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravannaarm23-dev&hide_border=true&ring=2E8B57&fire=FF6B35&currStreakLabel=2E8B57" alt="GitHub Streak"/>
-</p>
-
-<!-- ACTIVITY GRAPH -->
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shravannaarm23-dev&theme=minimal&hide_border=true&color=2E8B57&line=2E8B57&point=2E8B57" alt="Activity Graph"/>
-</p>
 
 ---
 
