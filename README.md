@@ -1,5 +1,5 @@
 <!-- HEADER WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shravan%20N%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Agriculture%20%C3%97%20Analytics%20%C3%97%20Rural%20Finance&descSize=18&descAlignY=75&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B4D1E,145A32,1E7A3E&height=180&section=header&text=Shravan%20N%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Agriculture%20%C3%97%20Analytics%20%C3%97%20Rural%20Finance&descSize=18&descAlignY=75&descAlign=50" />
 
 <!-- TYPING ANIMATION -->
 <h3 align="center">
@@ -35,7 +35,7 @@ I'm **Shravan N V** — PGDM in Agri-Business Management from **ICAR-NAARM**, wi
 - 🔍 Coded **160+ app reviews** for Clinikally (YC S22) — delivered 5 prioritised product fixes
 - 📡 **Market feasibility** for rural cold-chain storage (ColdEasy Technology, IIT RuTAG)
 
-My interest lies in in **Product Management, Founder's Office, Strategy & Business Analytics**.
+My interest lies in **Product Management, Founder's Office, Strategy & Business Analytics**.
 
 <br clear="right"/>
 
@@ -116,4 +116,4 @@ My interest lies in in **Product Management, Founder's Office, Strategy & Busine
 </p>
 
 <!-- FOOTER WAVE ANIMATION -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0B4D1E,145A32,1E7A3E&height=100&section=footer" />
