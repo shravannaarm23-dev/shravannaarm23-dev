@@ -1,10 +1,15 @@
-<h1 align="center">Hi there! I'm Shravan N V 👋</h1>
+<!-- HEADER WAVE ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Shravan%20N%20V&fontSize=55&fontColor=ffffff&animation=fadeIn&desc=Agriculture%20%C3%97%20Analytics%20%C3%97%20Rural%20Finance&descSize=18&descAlignY=75&descAlign=50" />
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2E8B57&center=true&vCenter=true&width=500&lines=Agriculture+%C3%97+Data+Analytics+%C3%97+Rural+Finance;Product+%26+Strategy+Enthusiast;PGDM+%7C+ICAR-NAARM+%7C+Hyderabad;Turning+Field+Insights+into+Data+Decisions" alt="Typing SVG" />
-</p>
+<!-- TYPING ANIMATION -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=PGDM+%7C+ICAR-NAARM+%7C+Hyderabad;Product+%26+Strategy+Enthusiast;Turning+Field+Insights+into+Data+Decisions;Open+to+PM+%7C+Founder%27s+Office+%7C+Analytics+Roles" />
+</h3>
 
+<!-- PROFILE VIEWS + BADGES -->
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shravannaarm23-dev&label=Profile+Views&color=2E8B57&style=flat-square" alt="Profile views" />
+  &nbsp;
   <a href="https://linkedin.com/in/shravannv112">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -18,16 +23,21 @@
 
 ---
 
+<!-- ABOUT ME WITH SIDE GIF -->
+<img align="right" width="280" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF"/>
+
 ## 🚀 About Me
 
-I'm **Shravan N V** — a PGDM in Agri-Business Management from **ICAR-NAARM**, with a B.Sc. (Hons.) Agriculture background and hands-on experience across **rural finance, operations, data analytics, and product strategy**.
+I'm **Shravan N V** — PGDM in Agri-Business Management from **ICAR-NAARM**, with a B.Sc. (Hons.) Agriculture background and hands-on experience across **rural finance, operations, data analytics, and product strategy**.
 
-- 🌾 Managed a **₹90L+ loan portfolio** at Sarvagram Fincare with weekly KPI tracking across disbursement, repayment, and delinquency metrics
-- 📊 Conducted **primary research across 200+ farmers** in Rajasthan for Crystal Crop Protection — demand analysis, pricing, and competitive intelligence
-- 🔍 Built **product intelligence deliverables** — coded 160+ app reviews for Clinikally (YC S22) and Zouk, delivering prioritised fix roadmaps
-- 📡 Assessed **market feasibility for rural cold-chain storage** (ColdEasy Technology, IIT RuTAG) — segmentation models & revenue projections
+- 🌾 Managed a **₹90L+ loan portfolio** at Sarvagram Fincare with weekly KPI tracking
+- 📊 Primary research across **200+ farmers** in Rajasthan for Crystal Crop Protection
+- 🔍 Coded **160+ app reviews** for Clinikally (YC S22) — delivered 5 prioritised product fixes
+- 📡 **Market feasibility** for rural cold-chain storage (ColdEasy Technology, IIT RuTAG)
 
-I sit at the intersection of **on-ground execution and data-driven decision-making**, targeting roles in **Product Management, Founder's Office, Strategy, and Business Analytics**.
+Targeting roles in **Product Management, Founder's Office, Strategy & Business Analytics**.
+
+<br clear="right"/>
 
 ---
 
@@ -41,13 +51,24 @@ I sit at the intersection of **on-ground execution and data-driven decision-maki
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Tech Stack & Tools
 
-- **Analytics & BI:** SQL (MySQL) · Power BI · Excel (Advanced) · ETL Pipelines · MIS Reporting · KPI Dashboards · Data Visualization
-- **Product:** Product Analysis · Customer Research · Review Mining · Feature Prioritization · GTM Strategy · User Insights · VOC Analysis
-- **Research:** Primary Research · Secondary Research · Consumer Insights · Competitive Intelligence · Market Feasibility · Demand Forecasting
-- **Operations:** Portfolio Management · Process Improvement · Cross-functional Coordination · Stakeholder Reporting · SOP Design
-- **Tools & Languages:** Python (Intermediate) · MySQL · Power BI · Excel · GitHub · Canva · QGIS · R
+<!-- ANIMATED SKILL ICONS (hover effect built-in) -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,r,github,git,vscode&theme=light&perline=6" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white"/>
+</p>
+
+- **Analytics & BI:** SQL (MySQL) · Power BI · Excel (Advanced) · ETL Pipelines · MIS Reporting · KPI Dashboards
+- **Product:** Product Analysis · Customer Research · Review Mining · Feature Prioritization · GTM Strategy
+- **Research:** Primary Research · Secondary Research · Consumer Insights · Competitive Intelligence
+- **Operations:** Portfolio Management · Process Improvement · Cross-functional Coordination
 
 ---
 
@@ -55,14 +76,13 @@ I sit at the intersection of **on-ground execution and data-driven decision-maki
 
 ### 🔬 [Clinikally App Review Analysis](https://shravannaarm23-dev.github.io/github.io/) — APM Proof-of-Work
 > **App Store Research · Product Strategy · Consumer Insights**
-> Coded all 160 Google Play Store reviews + Instagram comment threads for Clinikally (YC S22 healthtech).
-> Identified 3 critical post-purchase failures sharing a common root cause, flagged a suspicious single-day review spike as a probable Google Play policy violation, and delivered **5 prioritised product fixes (2×P0, 2×P1, 1×P2)** across product, ops, and supply chain.
+> Coded all 160 Google Play Store reviews + Instagram threads for Clinikally (YC S22 healthtech). Identified 3 critical post-purchase failures sharing a common root cause, flagged a suspicious single-day review spike as a probable Google Play policy violation, and delivered **5 prioritised product fixes (2×P0, 2×P1, 1×P2)** across product, ops, and supply chain.
 
 ---
 
 ### 📊 [Zouk Customer Intelligence Dashboard](https://shravannaarm23-dev.github.io/github.io/) — D2C VOC Analysis
 > **Review Mining · D2C Analytics · Voice of Customer**
-> Mined 98 App Store and Instagram reviews for Zouk (Indian vegan accessories brand). Built an interactive 4-tab dashboard identifying **3 structural gaps** in customer communication, response rates, and returns handling.
+> Mined 98 App Store and Instagram reviews for Zouk (Indian vegan accessories brand). Built interactive 4-tab VOC dashboard identifying **3 structural gaps** in customer communication, response rates, and returns handling.
 
 ---
 
@@ -74,11 +94,20 @@ I sit at the intersection of **on-ground execution and data-driven decision-maki
 
 ## 📊 GitHub Stats
 
+<!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shravannaarm23-dev&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57" alt="Shravan's GitHub Stats" />
+  <img src="https://github-profile-trophy.vercel.app/?username=shravannaarm23-dev&theme=flat&no-frame=true&column=6&margin-w=10" alt="GitHub Trophies"/>
 </p>
+
+<!-- STATS + STREAK SIDE BY SIDE -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravannaarm23-dev&layout=compact&hide_border=true&title_color=2E8B57" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=shravannaarm23-dev&show_icons=true&theme=default&hide_border=true&title_color=2E8B57&icon_color=2E8B57&text_color=555" alt="GitHub Stats"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=shravannaarm23-dev&hide_border=true&ring=2E8B57&fire=FF6B35&currStreakLabel=2E8B57" alt="GitHub Streak"/>
+</p>
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=shravannaarm23-dev&theme=minimal&hide_border=true&color=2E8B57&line=2E8B57&point=2E8B57" alt="Activity Graph"/>
 </p>
 
 ---
@@ -105,3 +134,6 @@ I sit at the intersection of **on-ground execution and data-driven decision-maki
 <p align="center">
   <i>🌾 From paddy fields to Power BI — bridging agriculture, analytics, and impact at the last mile.</i>
 </p>
+
+<!-- FOOTER WAVE ANIMATION -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
