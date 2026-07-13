@@ -3,7 +3,7 @@
 
 <!-- TYPING ANIMATION -->
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=PGDM+%7C+ICAR-NAARM+%7C+Hyderabad;Product+%26+Strategy+Enthusiast;Turning+Field+Insights+into+Data+Decisions;Open+to+PM+%7C+Founder%27s+Office+%7C+Analytics+Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=2E8B57&center=true&vCenter=true&width=550&lines=PGDM+%7C+ICAR-NAARM+%7C+Hyderabad;Product+%26+Strategy+Enthusiast;Turning+Field+Insights+into+Data+Decisions;Interested+in+PM+%7C+Founder%27s+Office+%7C+Analytics+Roles" />
 </h3>
 
 <!-- PROFILE VIEWS + BADGES -->
